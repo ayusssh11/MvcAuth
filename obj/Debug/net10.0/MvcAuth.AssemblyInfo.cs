@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MvcAuth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6eee3220d0997efcb40111bed4ef8008acff927")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad3d512027ca6d3ca7ac1417a81a4a48f15d0a11")]
 [assembly: System.Reflection.AssemblyProductAttribute("MvcAuth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MvcAuth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
